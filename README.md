@@ -39,7 +39,7 @@ Requires:
 
 * Unreal Engine 4.7.6
 * Visual Studio 2013 Community / Professional
-* A beefy computer -OR- a gaming laptop
+* A beefy computer OR a gaming laptop
 
 1. Once you have Unreal Engine 4.7.6 installed, go ahead and clone this repository.
 2. Once cloning the repository is done, right click on the GetDebt.UPROJECT file, and select "Generate Visual Studio project files".
@@ -51,9 +51,9 @@ Requires:
 
 ### Credits
 
-**Thompson Lee** - *Programmer* / *Game Producer*
-**Robert Smieja** - *Programmer*
-**Tyree Robinson** - *Artist*
-**Kenrick Tsang** - *Artist*
+**Thompson Lee** - *Programmer* / *Game Producer*     
+**Robert Smieja** - *Programmer*     
+**Tyree Robinson** - *Artist*     
+**Kenrick Tsang** - *Artist*     
 
 Apache Licensed. 2015
