@@ -37,9 +37,10 @@ Due to the shipping EXE package is over 1GB large, it is not possible to provide
 
 Requires:
 
-* Unreal Engine 4.7.6
-* Visual Studio 2013 Community / Professional
-* A beefy computer OR a gaming laptop
+* Unreal Engine 4.7.6 
+* Visual Studio 2013 Community / Professional 
+* A beefy computer OR a gaming laptop 
+
 
 1. Once you have Unreal Engine 4.7.6 installed, go ahead and clone this repository.
 2. Once cloning the repository is done, right click on the GetDebt.UPROJECT file, and select "Generate Visual Studio project files".
