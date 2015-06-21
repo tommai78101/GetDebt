@@ -10,7 +10,7 @@ A game made in Unreal Engine 4. Project code only.
 
 ### Description
 
-This is a project game made by me and my partner, Robert. It was made as an assignment on Technical Game Development using Unreal Engine 4.6. Over the duration of the course, the project was incrementally upgraded to 4.7, and now it's 4.7.6. 
+This is a project game made by me and my partner, Robert, along with our artists, Tyree and Kenrick. It was made as an assignment on Technical Game Development using Unreal Engine 4.6. Over the duration of the course, the project was incrementally upgraded to 4.7, and now it's 4.7.6. 
 
 The game's premise is to capture all of the students running away from you, before the time runs out.
 
