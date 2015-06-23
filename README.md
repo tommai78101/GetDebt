@@ -53,8 +53,8 @@ Requires:
 ### Credits
 
 **Thompson Lee** - *Programmer* / *Game Producer*    
-**Robert Smieja** - *Programmer* / *Lab Admin* / *Unreal Engine 4 MQP developer*   
-**Tyree Robinson** - *Artist* / *Creative Design* / *3D Modeler*
-**Kenrick Tsang** - *Artist* / *Creative Design* / *3D Modeler*
+**Robert Smieja** - *Programmer* / *Lab Admin* / *Unreal Engine 4 MQP developer*    
+**Tyree Robinson** - *Artist* / *Creative Design* / *3D Modeler*     
+**Kenrick Tsang** - *Artist* / *Creative Design* / *3D Modeler*     
 
 Apache Licensed. 2015
